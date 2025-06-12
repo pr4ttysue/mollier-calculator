@@ -149,7 +149,7 @@ export default function HomePage() {
                     </button>
                   ))}
                 </div>
-              </div>
+        </div>
 
               {/* Units */}
               <div>
